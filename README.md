@@ -1,1 +1,1 @@
-Library for students
+Library for students and librarians
